@@ -1,0 +1,9 @@
+Step1. 'wine.csv' 파일로부터 데이터 불러오기
+Step2. info() 함수로 기본 정보 불러오기
+Step3. 함수를 사용해 수치 통계(8개) 구하기
+Step4. 함수를 사용해 수치 통계(mean, min, max) 구하기
+Step4. 와인의 품질 등급(quality) 단계 알아보기
+Step5. 와인의 품질 등급(quality)별 수(빈도수) 구하기
+Step6. 가장 빈도수가 많은 품질 등급(quality) 구하기
+Step7. 유형(type)별로 품질 등급(quality)별 수치 통계 구하기
+Step8. 유형(type)에 따른 품질 등급(quality) 시각화 하기
